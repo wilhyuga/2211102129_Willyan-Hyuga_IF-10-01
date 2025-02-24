@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: '2211102117_Bagas Surahman',
+      title: '2211102129_Willyan Hyuga',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
         // tested with just a hot reload.
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: '2211102117_Bagas Surahman'),
+      home: const MyHomePage(title: '2211102129_Willyan Hyuga'),
     );
   }
 }
@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Center(
         child: Text(
-        "Bagas Surahman (2211102117)",
+        "Willyan Hyuga (22111021129)",
         ),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
